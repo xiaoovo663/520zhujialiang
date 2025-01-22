@@ -9,8 +9,30 @@
                                                                   ----2025.1.21
                                            
 
-- [ ]  
+- [不用问，是我! ]  
 
 ![Image](https://github.com/user-attachments/assets/5f9a7d6d-c808-430c-a5f5-a6147d080ef0)
 
 by 你的老婆-何芯漩
+
+
+
+
+
+
+
+
+Copyright (C) 2019-2023 Mamoe Technologies and contributors.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>. by 何芯漩 https://xiaoovo663.github.io/520zhujialiang/
