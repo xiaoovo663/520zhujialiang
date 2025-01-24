@@ -13,3 +13,17 @@
 4
 
 ![Image](https://github.com/user-attachments/assets/dbb103e7-aa14-45a1-a38d-02f7fbe19dbe)
+
+
+
+
+5.
+
+![Image](https://github.com/user-attachments/assets/cd8ddb1f-5aa3-47f2-9864-a8fc4477c846)
+
+
+
+
+6.
+
+![Image](https://github.com/user-attachments/assets/429480b3-4b85-4fcb-9c8b-ce9f9be20901)
